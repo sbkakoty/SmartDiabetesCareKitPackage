@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SmartDiabetesCareKit",
-            url: "https://github.com/sbkakoty/SmartDiabetesCareKit/releases/download/1.1.0/SmartDiabetesCareKit.xcframework.zip",
-            checksum: "21b57d8c35086ec1508de9e5406bd81079e072775980b01133e7c7b00c513a66"
+            url: "https://github.com/sbkakoty/SmartDiabetesCareKit/releases/download/1.2.0/SmartDiabetesCareKit.xcframework.zip",
+            checksum: "c69fd279d45636ab894da9e8e26ff9665cede7260fcf2ecc7d8c2ebda4f0770f"
         )
     ]
 )
